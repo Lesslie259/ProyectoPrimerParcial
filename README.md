@@ -58,4 +58,8 @@ Finalmente en este archivo se muestran los datos de los libros impresos en una v
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/82d0be21-fe53-4957-b8fc-cf46b6140a62)
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/c19fdf33-b07f-4543-89a8-4f6d9328a4fa)
 ![Uploading image.png…]()
+# ProyectoSegundoParcial
+En esta parte del repositorio, se muestra un sistema elaborado pon php, que contiene tablas, regsitro de usuarios, clientes,
+personas, sucursales y clientes, con su respectivo  login.
+A continuacion se muestran las capturas de las actividades realizadas.Se puede acceder a el sin ningun tipo de restriccion.
 
